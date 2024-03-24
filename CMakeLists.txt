@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(Glad VERSION 2.0.0 LANGUAGES C)
+project(Glad VERSION 0.1.36 LANGUAGES C)
 
 add_library(
     glad
